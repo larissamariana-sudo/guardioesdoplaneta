@@ -1,0 +1,6 @@
+{
+  "name": "Guardiões 3D: Resiliência Climática",
+  "description": "Jogo 3D isométrico de gestão climática e proteção de cidades do Cerrado brasileiro contra eventos meteorológicos extremos, com cidadãos vivos, heróis customizáveis, clãs e economia sustentável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
